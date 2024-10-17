@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+    color: $color_1;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    list-style: none;
+    
+}
+
+a {
+    text-decoration: none;
+    color: $color_1;
+}
+
+.container {
+    max-width: 120rem;
+    margin: 0 auto;
+}
+button{
+    background-color: $background-color_2;
+}
+
